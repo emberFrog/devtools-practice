@@ -27,7 +27,7 @@
      ![2.4](./img/normal/duplicate-4.png)
 
      Каждый `.jpeg` и `.png` на странице запрашивается по 2 раза:
-     ![2.5](./img/normal/duplicate-4.png)
+     ![2.5](./img/normal/duplicate-5.png)
 
    - Лишний размер ресурсы, чаще всего `.png` и `.jpeg` форматы, которые можно сжать, поиск по размеру Size выше 10kB:
 
